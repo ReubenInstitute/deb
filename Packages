@@ -1,3 +1,18 @@
+Package: audiobible-titles
+Version: 0.7
+Architecture: all
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 6472
+Filename: ./audiobible-titles_0.7_all.deb
+Size: 5297216
+MD5sum: 4b0f738ecea18e361332a03288b466da
+SHA1: ece0b3c15fa87fdba5df2d5d8492f0267b22d1d2
+SHA256: 53e835ff4594113e0833934f9d3f822d77a87e82141a7ae7266c793fc94a46fa
+Section: sound
+Priority: optional
+Description: Parashah and psalm titles, DarkKnox2 voice
+ Parashah and psalm titles in the DarkKnox2 voice.
+
 Package: audiobible-verses-shmueloff-darkknox2
 Version: 0.10
 Architecture: all
